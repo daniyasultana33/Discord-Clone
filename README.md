@@ -1,2 +1,2 @@
 # Discord-Clone
- I have created a website that emulates the visual design and functionality of Discord, a well-known chat and voice communication platform. This project was built using HTML, CSS, and Tailwind CSS to recreate the Discord user experience.
+I've crafted a website that faithfully mirrors the visual appeal and operational capabilities of Discord, the renowned chat and voice communication platform. This project was meticulously constructed using HTML, CSS, and Tailwind CSS to authentically recreate the Discord user interface. Notably, the site is thoughtfully designed to maintain full responsiveness, assuring a seamless user experience across diverse devices and screen dimensions.
